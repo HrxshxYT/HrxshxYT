@@ -12,7 +12,7 @@ I'm Hrxshx, a self taught designer, developer and a video editor from India.
 ## Tools I use:
 - Visual Studio code'
 
-## Scoails
+## Socials
 
 | Socials | LINKS |
 | ------ | ------ |
