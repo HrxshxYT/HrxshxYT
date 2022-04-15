@@ -12,10 +12,6 @@ I'm Hrxshx, a self taught designer, developer and a video editor from India.
 ## Tools I use:
 - Visual Studio code'
 
-## Plugins
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
 
 | Socials | LINKS |
 | ------ | ------ |
