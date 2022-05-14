@@ -9,8 +9,8 @@ I'm Hrxshx, a self taught designer, developer and a video editor from India.
 - HTML
 - CSS
 
-## Tools I use:
-- Visual Studio code'
+## Tool I use:
+- Visual Studio code
 
 ## Socials
 
