@@ -15,11 +15,13 @@ I'm Hrishikesh, a Business student blending analytics, automation, and technolog
 **Programming**
 - Python
 - Node.js
+- Swift
 
 **Databases**
 - MySQL
 - PostgreSQL
 - Oracle
+- MongoDB
 
 **Cloud & Infrastructure**
 - Cloud Computing (VPS Management)
@@ -33,8 +35,5 @@ I'm Hrishikesh, a Business student blending analytics, automation, and technolog
 | Socials | Links |
 |---|---|
 | Twitter | https://twitter.com/hrxshx |
-| Discord | hrxshxforpresident |
-| Website | https://hrxshx.com |
-| YouTube | https://www.youtube.com/c/HrxshxYT/ |
-| Github | https://github.com/HrxshxYT |
+| Discord Server | https://discord.gg/kawH8pngZT |
 | Behance | https://www.behance.net/Hrxshx |
