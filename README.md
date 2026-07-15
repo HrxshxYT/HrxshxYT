@@ -1,23 +1,39 @@
-# Hey there👋🏻!
+# Hi there 👋
 
-I'm Hrxshx, a self taught designer, developer and a video editor from India.
+I'm Hrishikesh, a Business student blending analytics, automation, and technology to turn data into decisions. I combine a business mindset with hands-on technical skills across data analysis, cloud infrastructure, Microsoft Power Platform, and application development.
 
+## Skills
 
-## Languages I use:
+**Business Analytics & Data**
+- Data Analysis
+- Microsoft Power BI
+
+**Business Process Automation**
+- Microsoft Power Automate
+- Microsoft Power Apps
+
+**Programming**
 - Python
-- Javascript
-- HTML
-- CSS
+- Node.js
 
-## Tool I use:
-- Visual Studio code
+**Databases**
+- MySQL
+- PostgreSQL
+- Oracle
+
+**Cloud & Infrastructure**
+- Cloud Computing (VPS Management)
+
+**App & Bot Development**
+- discord.js
+- discord.py
 
 ## Socials
 
-| Socials | LINKS |
-| ------ | ------ |
+| Socials | Links |
+|---|---|
 | Twitter | https://twitter.com/hrxshx |
-| Discord | hrxshx#7643 |
+| Discord | hrxshxforpresident |
 | Website | https://hrxshx.com |
 | YouTube | https://www.youtube.com/c/HrxshxYT/ |
 | Github | https://github.com/HrxshxYT |
