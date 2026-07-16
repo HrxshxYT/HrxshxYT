@@ -89,8 +89,15 @@ the Microsoft Power Platform, and application development.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HrxshxYT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9" alt="Hrishikesh's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrxshxYT&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+
+</div>
+
+<!-- Always-render fallback: these badges are served by shields.io and never break -->
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/HrxshxYT?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/HrxshxYT?style=for-the-badge&logo=github&logoColor=white&color=EC4899&labelColor=1a1b27)
+![Profile views](https://komarev.com/ghpvc/?username=HrxshxYT&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
 
 </div>
 
