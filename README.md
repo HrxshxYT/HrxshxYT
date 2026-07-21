@@ -4,7 +4,7 @@ Business student blending **analytics, automation & technology** to turn data in
 I pair a business mindset with hands-on skills across data analysis, cloud infrastructure,
 the Microsoft Power Platform, and application development.
 
-[Website](https://hrxshx.com) · [Twitter](https://twitter.com/hrxshx) · [Discord](https://discord.gg/kawH8pngZT) · [Behance](https://www.behance.net/Hrxshx)
+[Website](https://guns.lol/hrxshx) · [Twitter](https://twitter.com/hrxshx) · [Discord](https://discord.gg/kawH8pngZT) · [Behance](https://www.behance.net/Hrxshx)
 
 ---
 
